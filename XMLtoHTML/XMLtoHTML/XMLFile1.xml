@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Students>
+  <Student
+    Name = "Володимир Карпенко"
+    Faculty = "Кібернетика"
+    Group = "К-27"
+    Subject = "ООП"
+    Mark = "89">
+  </Student>
+  <Student
+  Name = "Володимир Карпенко"
+  Faculty = "Кібернетика"
+  Group = "К-17"
+  Subject = "АГ"
+  Mark = "89">
+  </Student>
+  <Student
+    Name = "Юрій Побережний"
+    Faculty = "Кібернетика"
+    Group = "К-27"
+    Subject = "ООП"
+    Mark = "87">
+  </Student>
+  <Student
+  Name = "Юрій Побережний"
+  Faculty = "Кібернетика"
+  Group = "К-17"
+  Subject = "АГ"
+  Mark = "90">
+  </Student>
+  <Student
+  Name = "Гена"
+  Faculty="Кібернетика"
+  Group="К-27"
+  Subject="ООП"
+  Mark="60">
+  </Student>
+  <Student
+    Name = "Гена"
+    Faculty="Кібернетика"
+    Group="К-17"
+    Subject="АГ"
+    Mark="23">
+  </Student>
+</Students>
